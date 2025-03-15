@@ -1,0 +1,32 @@
+div {
+    color: white;
+}
+
+.Product {
+    background-color: rgb(31, 31, 31);
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.name {
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.type {
+    color: gray;
+}
+
+.price {
+    margin-top: 10px;
+    font-size: 27px;
+}
+
+img {
+    border-radius: 10px;
+}
+
